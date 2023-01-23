@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Max Malamut
+
+
+I am studying Mechanical Engineering at Boston University 
+
 <!--
 **maxmal1/maxmal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
