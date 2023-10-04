@@ -3,7 +3,7 @@
 My name is Max Malamut
 
 
-I completed my degree in Mechanical Engineering at Boston University in May 2023 
+I completed my degree in Mechanical Engineering at Boston University in May 2023 and I am currently a Master's of Computer Engineering Student also at Boston University. 
 
 <!--
 **maxmal1/maxmal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
